@@ -1,0 +1,1 @@
+export const address:string = "0x7592d1278Cdc3fAef72DAda3f1C575d38970a19e";
